@@ -1,6 +1,6 @@
 # BCG-Virtual-Data-Science-Program
 
-![Alt text](relative/path/to/image.png)
+![Alt text](BCG-Forage-Certificate.jpg)
 
 
 
