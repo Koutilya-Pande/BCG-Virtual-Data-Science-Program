@@ -1,6 +1,7 @@
 # BCG-Virtual-Data-Science-Program
 
-[View PDF](relative/path/to/yourfile.pdf)
+![Alt text](relative/path/to/image.png)
+
 
 
 ## Background
